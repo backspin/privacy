@@ -60,7 +60,7 @@ Our app is not intended for children under 13 years of age. No one under age 13 
 
 If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us.
 
-[Insert contact information]
+Support@sidespin.io
 
 ## 7. Your Rights
 You may have certain rights under applicable law regarding your personal information, including the right to access, correct, or delete the information we hold about you. 
@@ -71,8 +71,6 @@ We may update our privacy policy from time to time. We will notify you of any ch
 ## 9. Contact Information
 To ask questions or comment about this privacy policy and our privacy practices, contact us at:
 
-[Insert contact information]
+Site Administrator - admin@sidespin.io
 
----
 
-This template covers the basics, but it's important to tailor it specifically to your app's functionality and data practices. Additionally, legal review is crucial to ensure compliance with all applicable laws and platform policies.
