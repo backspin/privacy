@@ -121,4 +121,3 @@ If you have any questions, concerns, or requests regarding this Privacy Policy o
 
 **Site Administrator**  
 **Email**: admin@sidespin.io  
-**Mailing Address**: [Insert Address]
