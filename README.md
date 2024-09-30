@@ -1,76 +1,124 @@
 # Privacy Policy for SideSpin
 
-**Last updated: 09/30/24
+**Last updated: 09/30/24**
 
-Welcome to Sidespin ("we", "us", "our"). Your privacy is important to us. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application. Please read this policy carefully to understand our practices regarding your information and how we will treat it.
+Welcome to SideSpin ("we", "us", "our"). Your privacy is important to us. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application, and how we comply with privacy laws in the US, Canada, the EU, and other applicable global regulations. Please read this policy carefully to understand our practices regarding your information and how we will treat it.
 
 ## 1. Acceptance of This Policy
 By accessing or using our application, you signify your agreement to this Privacy Policy. If you do not agree with our policies and practices, please do not use our application.
 
 ## 2. Information We Collect
-We may collect various types of information from and about users of our app, including:
+We collect and process various types of personal data in accordance with applicable privacy laws. The following categories outline the data we collect, why we collect it, and how it is processed.
 
-- **Personal Information**: Information by which you may be personally identified, such as name, postal address, email address, telephone number, etc.
-- **Non-Personal Information**: Information that does not personally identify you but may include usage details, device information, and IP addresses.
+### 2.1 Types of Data Collected
 
-### 2.1 Information You Provide to Us
-The information we collect may include:
-- Account registration data (such as username and password).
-- Profile information (such as profile photo, bio).
-- User content (such as photos, comments, and other materials) that you post to the application.
+#### Contact Information
+- **Name, email address, phone number, physical address**: Collected when you create an account or interact with us.
+  
+#### User Content
+- **Photos, videos, comments, and messages**: Collected when you upload content to our app or communicate with us.
 
-### 2.2 Information We Collect Through Automatic Data Collection Technologies
-As you navigate and interact with our app, we may use automatic data collection technologies to collect certain information about your equipment, browsing actions, and patterns, including:
-- Details of your visits to our app, including traffic data, location data, logs, and other communication data and the resources that you access and use on the app.
-- Information about your mobile device and internet connection, including the device's unique device identifier, operating system, browser type, and mobile network information.
+#### Identifiers
+- **User ID, device ID**: We collect unique identifiers for your account and device to enhance user experience and security.
+
+#### Usage Data
+- **App interaction data**: We track your interactions with the app (e.g., clicks, scrolling, taps) to improve features and provide personalized experiences.
+
+#### Location Data
+- **Coarse location data**: We may collect non-precise location information (e.g., city or region) to tailor your experience. We do not collect **precise location data** unless explicitly authorized.
+
+#### Diagnostics
+- **Crash logs, performance data**: We collect diagnostic data to ensure the app runs smoothly and to resolve any issues.
+
+### 2.2 Data We Do Not Collect
+- **Sensitive information** (e.g., racial or ethnic data, religious beliefs, genetic data).
+- **Health and fitness data**, including information from health-related APIs such as HealthKit.
+- **Financial information** (e.g., payment card numbers, bank account details).
+- **Precise location data** unless you explicitly consent to its collection.
+
+### 2.3 How We Collect Your Information
+- **Directly from you**: When you register an account, interact with the app, or communicate with customer support.
+- **Automatically**: Through cookies, tracking pixels, and similar technologies, which gather usage and device data.
+
+### 2.4 Third-Party Data Collection
+We may integrate with third-party analytics and advertising services that collect user information. These third parties must adhere to relevant privacy standards and laws, and users will be notified of such integrations.
 
 ## 3. How We Use Your Information
-We use information that we collect about you or that you provide to us, including any personal information:
-- To present our app and its contents to you.
-- To provide you with information, products, or services that you request from us.
-- To fulfill any other purpose for which you provide it.
-- To carry out our obligations and enforce our rights arising from any contracts entered into between you and us.
-- To notify you about changes to our app or any products or services we offer or provide through it.
-- In any other way we may describe when you provide the information.
-- For any other purpose with your consent.
+We use information collected about you or provided by you in compliance with applicable laws, including:
+
+- **PIPEDA** (Canada)
+- **GDPR** (European Union)
+- **CCPA** (California, USA)
+- **COPPA** (US Children’s Privacy)
+
+We may use your data for the following purposes:
+- To provide and improve our services.
+- To personalize your experience and suggest relevant content or features.
+- To fulfill any requests you make or provide you with services you request.
+- To comply with legal obligations and respond to regulatory or legal requests.
 
 ## 4. Disclosure of Your Information
-We may disclose aggregated information about our users, and information that does not identify any individual, without restriction. We may disclose personal information that we collect or you provide as described in this privacy policy:
-- To our subsidiaries and affiliates.
-- To contractors, service providers, and other third parties we use to support our business.
-- To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of our assets.
-- To fulfill the purpose for which you provide it.
-- For any other purpose disclosed by us when you provide the information.
-- With your consent.
+We may share your data with third parties under the following conditions:
 
-We may also disclose your personal information:
-- To comply with any court order, law, or legal process, including to respond to any government or regulatory request.
-- To enforce our rights arising from any contracts entered into between you and us, including the app's terms of service.
-- If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of our company, our customers, or others.
+- **Service Providers**: We may share data with third-party companies who provide us with necessary services (e.g., hosting, analytics).
+- **Legal Requirements**: We may disclose your data in response to legal processes or to comply with obligations under the law (e.g., a court order, government investigation).
+- **Business Transfers**: In the event of a merger, acquisition, or sale of assets, your information may be transferred.
+
+We do not sell your personal information to third parties.
+
+### 4.1 International Data Transfers
+For users located in the EU or other regions with data protection laws, we may transfer your personal data to countries outside your jurisdiction, including the United States and Canada. These transfers will comply with applicable laws (e.g., **Standard Contractual Clauses** under GDPR, **PIPEDA**’s transfer guidelines).
 
 ## 5. Data Security
-We have implemented measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration, and disclosure. All information you provide to us is stored on our secure servers behind firewalls. 
+We take the protection of your data seriously and employ appropriate technical and organizational measures to safeguard your personal information against unauthorized access, alteration, disclosure, or destruction.
 
-However, the transmission of information via the internet and mobile platforms is not completely secure. Although we do our best to protect your personal information, we cannot guarantee the security of your personal information transmitted through our app. Any transmission of personal information is at your own risk.
+- All data is stored on secure servers.
+- We encrypt sensitive information.
+- Access to your data is limited to authorized personnel only.
 
-## 6. Children Under the Age of 13
-Our app is not intended for children under 13 years of age. No one under age 13 may provide any personal information in the app. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any information in this app or through any of its features, register on the app, make any purchases through the app, use
+However, please be aware that no method of transmission over the internet is 100% secure. You share information at your own risk.
 
- any of the interactive or public comment features of this app, or provide any information about yourself to us, including your name, address, telephone number, email address, or any screen name or user name you may use.
+## 6. Your Rights Under Global Privacy Laws
 
-If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us.
+### 6.1 Your Rights Under the **General Data Protection Regulation (GDPR)**
+For users in the European Union, the GDPR grants the following rights:
+- **Right of Access**: You may request access to your personal data we hold.
+- **Right to Rectification**: You may correct inaccurate personal data.
+- **Right to Erasure (Right to be Forgotten)**: You may request the deletion of your data, subject to certain conditions.
+- **Right to Data Portability**: You may request a copy of your data in a structured, machine-readable format.
+- **Right to Object/Restrict Processing**: You may object to or request that we limit how we process your data.
 
-Support@sidespin.io
+### 6.2 Your Rights Under the **California Consumer Privacy Act (CCPA)**
+For users in California:
+- **Right to Know**: You have the right to request the categories of data we collect and how we use it.
+- **Right to Deletion**: You may request that we delete your personal information, subject to legal exceptions.
+- **Right to Opt-Out of Sale**: You can request that we do not sell your personal information. Note: We do not sell your data.
+- **Right to Non-Discrimination**: We will not discriminate against you for exercising your privacy rights.
 
-## 7. Your Rights
-You may have certain rights under applicable law regarding your personal information, including the right to access, correct, or delete the information we hold about you. 
+### 6.3 Your Rights Under **PIPEDA** (Canada)
+For Canadian users:
+- **Right to Access**: You have the right to access your personal data.
+- **Right to Correct**: You may request that we correct or update inaccurate data.
+- **Right to Withdraw Consent**: You may withdraw consent to data collection or processing at any time, subject to legal restrictions.
+- **Right to File a Complaint**: You may file a complaint with the Office of the Privacy Commissioner of Canada if you believe your privacy rights have been violated.
+
+### 6.4 Children's Privacy – Compliance with **COPPA** (US)
+Our app is not intended for children under the age of 13, and we do not knowingly collect personal information from children. If we discover that we have inadvertently collected personal information from a child, we will take steps to delete that information as soon as possible.
+
+If you believe we may have collected data from a child under 13 without parental consent, please contact us immediately at **admin@sidespin.io**.
+
+## 7. Your Consent and Control Over Data
+You may control how your personal information is collected and used through the following means:
+- **Account Settings**: You may access, update, or delete your information via your account settings in the app.
+- **Communications Preferences**: You can opt-out of receiving marketing or promotional communications by adjusting your preferences in the app or by contacting us at **admin@sidespin.io**.
+- **Request Data Deletion**: To request deletion of your personal data, you may contact us at **admin@sidespin.io**.
 
 ## 8. Changes to Our Privacy Policy
-We may update our privacy policy from time to time. We will notify you of any changes by posting the new privacy policy on this page.
+We may update our privacy policy from time to time to reflect changes in our practices or changes in the law. We will notify you of any changes by posting the updated policy on this page and, if necessary, via email or app notifications. We encourage you to review this policy periodically.
 
 ## 9. Contact Information
-To ask questions or comment about this privacy policy and our privacy practices, contact us at:
+If you have any questions, concerns, or requests regarding this Privacy Policy or how we handle your personal information, please contact us at:
 
-Site Administrator - admin@sidespin.io
-
-
+**Site Administrator**  
+**Email**: admin@sidespin.io  
+**Mailing Address**: [Insert Address]
